@@ -11,4 +11,6 @@ COPY *.go ./
 
 RUN go build -o /http_server
 
+EXPOSE 8080
+
 CMD [ "/http_server" ]
