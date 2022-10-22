@@ -9,9 +9,6 @@
 *（可选）创建一个 Grafana Dashboard 展现延时分配情况。
 
 
-  
-  <summary>Module 10</summary>
-
+## Screenshots
 * Screenshots Grafana ![image](https://github.com/yuchenshe/geekbang_homework/blob/main/module10/pic/grafana-screenshot.png)
 * Screenshots Prometheus ![image](https://github.com/yuchenshe/geek_bang_homework/blob/main/module10/pic/prometheus-screenshot.png)
-
