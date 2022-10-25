@@ -1,14 +1,11 @@
 ## :student: My Info
 * name：Yuchen She
 
-## module10 homework
-* 为 HTTPServer 添加 0-2 秒的随机延时；
-* 为 HTTPServer 项目添加延时 Metric；
-* 将 HTTPServer 部署至测试集群，并完成 Prometheus 配置；
-* 从 Promethus 界面中查询延时指标数据；
-*（可选）创建一个 Grafana Dashboard 展现延时分配情况。
+## module12 homework
+* 如何实现安全保证；
+* 七层路由规则；
+* 考虑 open tracing 的接入。
 
 
 ## Screenshots
-* Screenshots Grafana ![image](https://github.com/yuchenshe/geekbang_homework/blob/main/module10/pic/grafana-screenshot.png)
-* Screenshots Prometheus ![image](https://github.com/yuchenshe/geekbang_homework/blob/main/module10/pic/prometheus-screenshot.png)
+* Screenshots Grafana ![image](https://github.com/yuchenshe/geekbang_homework/blob/main/module12/pic/screenshot.png)
