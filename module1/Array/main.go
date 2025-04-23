@@ -13,3 +13,5 @@ func main() {
 	mySlice := Array[1:]
 	fmt.Printf("mySlice %+v\n", mySlice)
 }
+
+#test Bito
